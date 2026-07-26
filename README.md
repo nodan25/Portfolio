@@ -5,6 +5,7 @@ A responsive and modern personal portfolio website showcasing my skills, project
 🚀 Tech Stack
 HTML5
 CSS3
+
 ✨ Features
 📱 Responsive Design
 🎨 Modern & Clean UI
@@ -13,9 +14,15 @@ CSS3
 📂 Projects Portfolio
 🏆 Certifications
 📞 Contact Information
+
+
 📊 Skills
 HTML5 ▰▰▰▰▰▰▰▰▰▱ 95%
+
 CSS3 ▰▰▰▰▰▰▰▰▱▱ 90%
+
 Python ▰▰▰▰▰▰▰▰▱▱ 88%
+
 SQL ▰▰▰▰▰▰▰▱▱▱ 85%
+
 Power BI ▰▰▰▰▰▰▰▱▱▱ 85%
